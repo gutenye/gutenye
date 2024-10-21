@@ -2,3 +2,4 @@
 - dead link checks
 - svg optimize
 - one line description by AI
+- group: Productively, Tools, libraries, Others
