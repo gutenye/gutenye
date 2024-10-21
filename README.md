@@ -1,7 +1,3 @@
-# My Open Source Projects
-
-I encourage you to check out my open source projects to see the work I've done.
-
 | Name                                                                                   | Tech                              | Description                                                                 |
 | -------------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------- |
 | [Image Manipulation](https://github.com/gutenye/raycast-extensions/tree/main/image)    | ![ts]                             | Supercharge your Finder app by Convert, Resize, Concat images               |
