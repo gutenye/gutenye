@@ -1,0 +1,4 @@
+- github actions
+- dead link checks
+- svg optimize
+- one line description by AI
