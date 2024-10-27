@@ -1,6 +1,6 @@
 |                                                                                           |                                                                            |                   |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------- |
-| [Password Manager Tools](https://github.com/gutenye/password-manager-tools)               | Easily transfer passwords from Bitwarden to Apple Passwords                | ![ts]             |
+| [Password Manager Tools](https://github.com/gutenye/password-manager-tools)               | Easily transfer passwords from one password manager to another             | ![ts]             |
 | [OCR](https://github.com/gutenye/ocr)                                                     | High accurate text detection library                                       | ![ts]             |
 | [Image Manipulation](https://github.com/gutenye/raycast-extensions/tree/main/quick-image) | Supercharge your Finder app by Convert, Resize, Concat images              | ![ts]             |
 | [Data Analysis](https://github.com/gutenye/data-analysis-public)                          | Learn Linear Regression with Jupyter Notebook and Python                   | ![py]             |
