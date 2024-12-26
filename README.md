@@ -1,5 +1,6 @@
 |                                                                                           |                                                                            |                   |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------- |
+| [Commander Completion Carapace](https://github.com/gutenye/commander-completion-carapace) | Effortlessly add intelligent auto-completion support to your CLI app       | ![ts]             |
 | [Password Manager Tools](https://github.com/gutenye/password-manager-tools)               | Easily transfer passwords from one password manager to another             | ![ts]             |
 | [OCR](https://github.com/gutenye/ocr)                                                     | High accurate text detection library                                       | ![ts]             |
 | [Image Manipulation](https://github.com/gutenye/raycast-extensions/tree/main/quick-image) | Supercharge your Finder app by Convert, Resize, Concat images              | ![ts]             |
