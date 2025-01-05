@@ -6,7 +6,7 @@
 | [Quick Image](https://github.com/gutenye/extensions/tree/quick-image/extensions/quick-image) | Supercharge your Finder app by Convert, Resize, Concat images              | ![ts]             |
 | [Data Analysis](https://github.com/gutenye/data-analysis-public)                             | Learn Linear Regression with Jupyter Notebook and Python                   | ![py]             |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price)      | Display Bitcoin price on the system menu bar.                              | ![ts]             |
-| [LibJS](https://github.com/gutenye/lib.js)                                                   | Copy and paste ready JavaScript utils                                      |
+| [LibJS](https://github.com/gutenye/lib.js)                                                   | Copy and paste ready JavaScript utils                                      | ![ts]             |
 | [CommanderJS Completion](https://github.com/gutenye/commander-completion-carapace)           | Effortlessly add intelligent auto-completion support to your CLI app       | ![ts]             |
 | [Syncthing Kindle](https://github.com/gutenye/syncthing-kindle)                              | Automatically sync eBooks to a Kindle device.                              |                   |
 | [Hangzhou Maps](https://maps.guten.me)                                                       | Provides subway, fastway, shopping mall, commerical area, residential area | ![js]             |
