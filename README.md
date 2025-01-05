@@ -7,7 +7,7 @@
 | [Data Analysis](https://github.com/gutenye/data-analysis-public)                             | Learn Linear Regression with Jupyter Notebook and Python                   | ![py]             |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price)      | Display Bitcoin price on the system menu bar.                              | ![ts]             |
 | [LibJS](https://github.com/gutenye/lib.js)                                                   | Copy and paste ready JavaScript utils                                      |
-| [Commander Completion Carapace](https://github.com/gutenye/commander-completion-carapace)    | Effortlessly add intelligent auto-completion support to your CLI app       | ![ts]             |
+| [CommanderJS Completion](https://github.com/gutenye/commander-completion-carapace)           | Effortlessly add intelligent auto-completion support to your CLI app       | ![ts]             |
 | [Syncthing Kindle](https://github.com/gutenye/syncthing-kindle)                              | Automatically sync eBooks to a Kindle device.                              |                   |
 | [Hangzhou Maps](https://maps.guten.me)                                                       | Provides subway, fastway, shopping mall, commerical area, residential area | ![js]             |
 | [Gnote](https://github.com/gutenye/gnote)                                                    | A CLI written in Rust, Typescript and Go langauges for comparision.        | ![rs] ![ts] ![go] |
