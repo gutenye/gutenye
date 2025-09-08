@@ -1,8 +1,9 @@
 |                                                                                              |                                                                            |                   |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------- |
+| [Guten Email Notification](https://github.com/gutenye/email-notification)                    | Zero configuration, ntfy-like email notification service.                  | ![ts]             |
 | [ScriptJS](https://github.com/gutenye/script.js)                                             | Write shell scripts in JavaScript with autocompletion                      | ![ts]             |
 | [Password Manager Tools](https://github.com/gutenye/password-manager-tools)                  | Easily transfer passwords from one password manager to another             | ![ts]             |
-| [OCR](https://github.com/gutenye/ocr)                                                        | High accurate text detection library                                       | ![ts]             |
+| [Guten OCR](https://github.com/gutenye/ocr)                                                  | High accurate text detection library                                       | ![ts]             |
 | [Quick Image](https://github.com/gutenye/extensions/tree/quick-image/extensions/quick-image) | Supercharge your Finder app by Convert, Resize, Concat images              | ![ts]             |
 | [Data Analysis](https://github.com/gutenye/data-analysis-public)                             | Learn Linear Regression with Jupyter Notebook and Python                   | ![py]             |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price)      | Display Bitcoin price on the system menu bar.                              | ![ts]             |
