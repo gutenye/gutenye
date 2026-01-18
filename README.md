@@ -1,5 +1,6 @@
 |                                                                                              |                                                                            |                   |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------- |
+| [Astro i18next](https://github.com/gutenye/astro-i18next)                                    | Best i18next solution for Astro, emit zero JS and hot reload support.      | ![ts]             |
 | [Guten Email Notification](https://github.com/gutenye/email-notification)                    | Zero configuration, ntfy-like email notification service.                  | ![ts]             |
 | [ScriptJS](https://github.com/gutenye/script.js)                                             | Write shell scripts in JavaScript with autocompletion                      | ![ts]             |
 | [Password Manager Tools](https://github.com/gutenye/password-manager-tools)                  | Easily transfer passwords from one password manager to another             | ![ts]             |
